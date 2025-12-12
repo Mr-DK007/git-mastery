@@ -1,2 +1,3 @@
 "Once upon a time." 
 "The hero found a sword." 
+"Suddenly, a dragon appeared." 
